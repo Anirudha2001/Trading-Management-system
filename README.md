@@ -10,7 +10,7 @@ StockTrad-Z can do the following activity:
 This page is been made using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML#:~:text=HTML%20(HyperText%20Markup%20Language)%20is,functionality%2Fbehavior%20(JavaScript).), 
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [BOOTSTRAP](https://getbootstrap.com/) and [THEMELEAF](https://www.thymeleaf.org/).
 
-![Landing Page](Share-Data/snippets/landingPage.png)
+![Landing Page](task/snippets/landingPage.png)
 
 
 ## Welcome Page
