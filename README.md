@@ -16,7 +16,7 @@ This page is been made using [HTML](https://developer.mozilla.org/en-US/docs/Web
 ## Welcome Page
 This page is static for now but can be used to get news api and showing stock market news live.
 
-![Welcome Page](task/snippets/welcomePage.png)
+![Welcome Page](task/snippets/welcomePage.jpeg)
 
 ## Stocks Page
 The data used here is from database which you can find here [Stocks](https://github.com/modhtanmay/Stock-Trading-Management/blob/master/Share-Data/Sql%20Scripts/shares.sql). The improvement can be done where the data is dynamic using some stocks Apis. (will update it with necessary changes)
