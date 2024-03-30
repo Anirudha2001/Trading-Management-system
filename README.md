@@ -16,18 +16,18 @@ This page is been made using [HTML](https://developer.mozilla.org/en-US/docs/Web
 ## Welcome Page
 This page is static for now but can be used to get news api and showing stock market news live.
 
-![Welcome Page](Share-Data/snippets/welcomePage.png)
+![Welcome Page](task/snippets/welcomePage.png)
 
 ## Stocks Page
 The data used here is from database which you can find here [Stocks](https://github.com/modhtanmay/Stock-Trading-Management/blob/master/Share-Data/Sql%20Scripts/shares.sql). The improvement can be done where the data is dynamic using some stocks Apis. (will update it with necessary changes)
 
-![Stocks](Share-Data/snippets/stocksPage.png)
+![Stocks](task/snippets/stocksPage.png)
 
 
 ## Orders Page
 Here the list of orders are seen which the trader traded from stocks Page. <br/> This is linked to database (For project management of data is using [JPA](https://spring.io/projects/spring-data-jpa) and database is [MySql Workbench](https://www.mysql.com/products/workbench/))
 
-![Stocks](Share-Data/snippets/ordersPage.png)
+![Stocks](task/snippets/ordersPage.png)
 
 # Technologies Used
 
@@ -63,5 +63,5 @@ Here the list of orders are seen which the trader traded from stocks Page. <br/>
 - Import all the dependencies.
 - Run Application.java to run the application.
 - You will see the processing and verification of the process during the Application run.
-- Open Browser and Type in [localhost:{server_port}](https://locallhost.com/). <br/>(Server Port Depends on local System you can change it by going here [server.port](https://github.com/modhtanmay/Stock-Trading-Management/blob/master/Share-Data/src/main/resources/application.properties))
+- Open Browser and Type in [localhost:{server_port}](https://locallhost.com/). <br/>(Server Port Depends on local System you can change it by going here [server.port](https://github.com/Anirudha2001/Trading-Management-system/blob/main/task/src/main/resources/application.properties))
 - That's it You are Good to go!!!.
